@@ -34,12 +34,6 @@ What skills are most in-demand in the data job market, and how do these requirem
 
 ---
 
-## Dashboard Preview
-
-![Dashboard Preview](images/dashboard_preview.png)
-
----
-
 ## Conclusion
 
 This analysis highlights clear skill segmentation across data roles and provides actionable insights for candidates preparing for data-related careers.
